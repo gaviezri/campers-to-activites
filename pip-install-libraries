@@ -1,0 +1,6 @@
+pip install networkx
+pip install PySimpleGUI
+pip install pandas
+pip install xlsxwriter
+
+pyinstaller --noconsole --onefile --icon=Kimama-icon.ico Main.py
