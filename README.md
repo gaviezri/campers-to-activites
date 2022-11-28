@@ -1,9 +1,5 @@
 # AllocateKidsInActivities
 
-this is a stateless program that a friend and me developed.
-the need came after a friday family dinner where a friend of the host
-presented us the problem his camp is having
-
 
 Basically, you import an .xlsx file in the format and the program will do the rest,
 using min-cost-flow algorithm (NetworkX) - https://en.wikipedia.org/wiki/Minimum-cost_flow_problem
